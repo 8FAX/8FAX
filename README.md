@@ -24,17 +24,28 @@ I'm Uli, a passionate developer with a knack for building innovative solutions a
 
 </div>
 
-### Project Title 1
+### HoyoHelper
 
-Brief description of the project.
+The Hoyo Helper project is designed to help players of Hoyoverse games automate the claiming of web-based daily login rewards 
+without needing to manually access the website. It offers two solutions: a standalone file for batch automation of multiple accounts and a 
+QT-based app with an intuitive interface for managing accounts and automating logins.
 
 <details>
 <summary>📖 More about this project</summary>
 
-Detailed description of the project, its purpose, and the technologies used.
+The Hoyo Helper project simplifies the process of claiming daily login rewards for Hoyoverse games by automating logins
+to Genshin Impact (GI), Honkai: Star Rail (HSR), and Zenless Zone Zero (ZZZ). The standalone version supports bulk
+automation for multiple accounts, while the QT-based app provides a user-friendly GUI for storing accounts and configuring
+automated logins. Using Playwright, the project ensures efficient and asynchronous handling of login processes and session
+management. The backend scripting handles credentials securely, working seamlessly with the automation. Modular development
+allows each component—Playwright scripts, backend login functionality, and the GUI—to evolve independently while laying the
+groundwork for future integration. This approach ensures a cohesive user experience in the final product. Currently under
+active development, the project will eventually deliver expanded automation capabilities and an enhanced GUI. Contributions
+are welcome to help refine the code, report bugs, or suggest new features under the GNU Affero General Public License.
 
-[![Project Title 1](https://github-readme-stats.vercel.app/api/pin/?username=8FAx&repo=HoyoHelper&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/8FAx/HoyoHelper)
 
+[![Project Title 1](https://github-readme-stats.vercel.app/api/pin/?username=8FAx&repo=HoyoHelper&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/8FAx/HoyoHelper)\
+Still want to learn more? Check out the full project by clicking on the image here ^
 </details>
 
 ### Project Title 2
@@ -52,7 +63,7 @@ Detailed description of the project, its purpose, and the technologies used.
 
 ### Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,go,lua,css,html,bash&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,go,lua,css,html,bash&perline=3" />
 
 <details>
 <summary>🔍 Language stats</summary>
@@ -64,17 +75,17 @@ Detailed description of the project, its purpose, and the technologies used.
 
 ### Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,sequelize&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,sequelize&perline=3" />
 </div>
 
 ### Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare,fastapi,express&perline=7" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare,fastapi,express,bitbucket&perline=3" />
 </div>
 
 ### Frameworks & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,discordjs,electron,qt&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,discordjs,electron,qt,pytorch&perline=3" />
 </div>
 
 ## 🌐 Connect With Me
