@@ -21,7 +21,6 @@ I'm Uli, a passionate developer with a knack for building innovative solutions a
 
 <div align="center">
 
-[![Project Title 1](https://github-readme-stats.vercel.app/api/pin/?username=8FAx&repo=HoyoHelper&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/8FAx/HoyoHelper)
 
 </div>
 
@@ -33,6 +32,8 @@ Brief description of the project.
 <summary>📖 More about this project</summary>
 
 Detailed description of the project, its purpose, and the technologies used.
+
+[![Project Title 1](https://github-readme-stats.vercel.app/api/pin/?username=8FAx&repo=HoyoHelper&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/8FAx/HoyoHelper)
 
 </details>
 
@@ -51,13 +52,13 @@ Detailed description of the project, its purpose, and the technologies used.
 
 ### Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,go,lua&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,go,lua,css,html,bash&perline=5" />
 
 <details>
 <summary>🔍 Language stats</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8FAX&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
 
-<details>
+</details>
 
 </div>
 
@@ -68,12 +69,12 @@ Detailed description of the project, its purpose, and the technologies used.
 
 ### Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare&perline=5" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare,fastapi,express&perline=7" />
 </div>
 
 ### Frameworks & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,discordjs,electron,qt&perline=4" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,discordjs,electron,qt&perline=5" />
 </div>
 
 ## 🌐 Connect With Me
