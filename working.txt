@@ -1,0 +1,9 @@
+https://github-readme-stats.vercel.app/api?username=8FAX&show_icons=true&theme=radical
+
+https://readme-typing-svg.herokuapp.com/demo/?duration=2000&background=3BFF6400&center=true&multiline=true&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump
+
+https://skillicons.dev/icons?i=bitbucket,cloudflare,css,discordjs,discord,bots,docker,electron,git,github,go,java,js,lua,md,mongodb,mysql,nodejs,ps,postgres,py,qt,redis,sqlite,sequelize,svg,ts,ubuntu&perline=7
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=8FAX&layout=compact&theme=blueberry&count_private=true&hide_border=true
+
+https://github-readme-stats.vercel.app/api/pin/?username=8FAx&repo=HoyoHelper&layout=compact&theme=blueberry&count_private=true&hide_border=true
