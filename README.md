@@ -28,14 +28,12 @@ environments and enjoy the process of iterative improvement.
 - 🌐 Experience:
     - Back-End Developer @ [BoatsGroup](https://www.boatsgroup.com/): Summer and fall of 2024
     <details>
-      <summary>🔍 More about my work at BoatsGroup</summary>
-
-      Focused on automating data validation for 
-      marketplace listings of boats and engines 
-      (makes and models). Designed and implemented 
-      robust systems to ensure data integrity using 
-      advanced validation techniques and automation tools.
-
+       <summary>🔍 More about my work at BoatsGroup</summary>
+       Focused on automating data validation for
+       marketplace listings of boats and engines
+       (makes and models). Designed and implemented
+       robust systems to ensure data integrity using
+       advanced validation techniques and automation tools.
     </details>
 - 📚 Education
     - Currently pursuing a Bachelor’s in Computer Science at RIT
@@ -50,7 +48,7 @@ environments and enjoy the process of iterative improvement.
 
 </div>
 
-### HoyoHelper
+### - HoyoHelper
 
 The Hoyo Helper project is designed to help players of Hoyoverse games automate the claiming of web-based daily login rewards 
 without needing to manually access the website. It offers two solutions: a standalone file for batch automation of multiple accounts and a 
@@ -70,10 +68,10 @@ are welcome to help refine the code, report bugs, or suggest new features under 
 
 
 [![HoyoHelper](https://github-readme-stats.vercel.app/api/pin/?username=8FAx&repo=HoyoHelper&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/8FAx/HoyoHelper)\
-Still want to learn more? Check out the full project by clicking on the image here ^
+Check out the full project by clicking on the image here ^
 </details>
 
-### RagStack
+### - RagStack
 
 This project is a comprehensive RAG pipeline implementation that includes YouTube and web scraping tools for data collection,
 Milvus as a vector database for efficient context retrieval, and a Tkinter-based multi-user chatbot interface. It also features
@@ -92,15 +90,15 @@ retrieved content. Configuration is handled via environment variables and modula
 customization. This project provides a foundational understanding of RAG pipelines and the associated technology stack for building
 sophisticated retrieval and generation systems.
 
-[![RagStack](https://github-readme-stats.vercel.app/api/pin/?username=8FAx&repo=RagStack&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/8FAx/HoyoHelper)\
-Still want to learn more? Check out the full project by clicking on the image here ^
+[![RagStack](https://github-readme-stats.vercel.app/api/pin/?username=8FAx&repo=RagStack&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/8FAX/RAGStack)\
+Check out the full project by clicking on the image here ^
 </details>
 
 </details>
 
 ## 🛠️ Technologies & Skills
 
-### Languages
+### Languages:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,java,go,lua,css,html,bash&perline=3" />
 
@@ -112,17 +110,17 @@ Still want to learn more? Check out the full project by clicking on the image he
 
 </div>
 
-### Databases
+### Databases:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,sequelize&perline=3" />
 </div>
 
-### Tools
+### Tools:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,cloudflare,fastapi,express,bitbucket&perline=3" />
 </div>
 
-### Frameworks & Libraries
+### Frameworks & Libraries:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,discordjs,electron,qt,pytorch&perline=3" />
 </div>
