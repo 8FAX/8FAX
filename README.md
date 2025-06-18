@@ -35,6 +35,11 @@ environments and enjoy the process of iterative improvement.
        robust systems to ensure data integrity using
        advanced validation techniques and automation tools.
     </details>
+   - Back-End Developer @ [Dutchie](https://dutchie.com/): spring of 2025 - Curent! 
+    <details>
+       <summary>🔍 More about my work at Dutchie</summary>
+       This work is still ongoing, and I will update soon!
+    </details>
 - 📚 Education
     - Currently pursuing a Bachelor’s in Computer Science at RIT
 - 🛠️ Exploring new technologies and pushing boundaries
