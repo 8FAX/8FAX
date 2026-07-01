@@ -26,7 +26,7 @@ enthusiasm and a keen eye for detail. Always open to exploring fresh perspective
 environments and enjoy the process of iterative improvement.
 
 - 🌐 Experience:
-    - Back-End Developer @ [BoatsGroup](https://www.boatsgroup.com/): Summer and fall of 2024
+    - Back-End Developer @ [BoatsGroup](https://www.boatsgroup.com): Summer and fall of 2024
     <details>
        <summary>🔍 More about my work at BoatsGroup</summary>
        Focused on automating data validation for
@@ -35,7 +35,7 @@ environments and enjoy the process of iterative improvement.
        robust systems to ensure data integrity using
        advanced validation techniques and automation tools.
     </details>
-    - Back-End Developer @ [Dutchie](https://dutchie.com/): spring of 2025 - Curent! 
+    - Back-End Developer @ [Dutchie](https://www.dutchie.com): spring of 2025 - Curent! 
     <details>
        <summary>🔍 More about my work at Dutchie</summary>
        This work is still ongoing, and I will update soon! (working on catalog validation as well as content matching in Ruby)
